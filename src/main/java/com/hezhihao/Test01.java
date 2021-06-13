@@ -5,6 +5,8 @@ public class Test01 {
         System.out.println("测试代码");
         for (int i = 0; i < 2; i++) {
             System.out.println(1);
+            System.out.println(1);
+            System.out.println(1);
         }
     }
 }
